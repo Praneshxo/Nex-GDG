@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const API_KEY = ""; // Replace with your actual API key
 
-function App() {
+function Pdfpage() {
   const [message, setMessage] = useState("");
   const [response, setResponse] = useState("");
   const [loading, setLoading] = useState(false);
@@ -151,4 +151,4 @@ function App() {
   );
 }
 
-export default App;
+export default Pdfpage;
