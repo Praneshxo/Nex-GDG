@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_KEY = "AIzaSyA0C3HemTdK3Gu36D8KpZxdigIiWAbh8iQ"; // Replace with your actual API key
+const API_KEY = ""; // Replace with your actual API key
 
 function App() {
   const [message, setMessage] = useState("");
